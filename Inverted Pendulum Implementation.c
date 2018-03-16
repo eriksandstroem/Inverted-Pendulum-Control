@@ -1,7 +1,5 @@
 
 /*******************************************************************************
-* FINAL_PROJECT.c
-*
 * This program retrieves the angle estimates from the IMU and passes the values
 * through a complementary filter to for a more accurate description of the angle
 * and then uses a body angle reference set point to balance around. Two controllers
